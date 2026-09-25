@@ -15,11 +15,11 @@ from bs4 import BeautifulSoup
 # ============================================================
 #   ✏️  KONFIGURATION – hier deine Daten eintragen
 # ============================================================
-TELEFONNUMMER = "+4915XXXXXXXXX"   # deine ALDI Talk Nummer (mit +49)
-PASSWORT      = "DEIN_PASSWORT"   # dein Portal-Passwort
+TELEFONNUMMER = "+491765687563"   # deine ALDI Talk Nummer (mit +49)
+PASSWORT      = "Na240271!!??"   # dein Portal-Passwort
 
 CHECK_INTERVAL = 300               # Sekunden zwischen Checks (300 = 5 Min)
-DATEN_SCHWELLE = 200               # Buchen wenn < X MB übrig (0 = nur bei Limit)
+DATEN_SCHWELLE = 990               # Buchen wenn < X MB übrig (0 = nur bei Limit)
 # ============================================================
 
 BASE_URL     = "https://www.alditalk-kundenportal.de"
